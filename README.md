@@ -1,17 +1,17 @@
-                                            #🎓 College Event Management System
+                                            🎓 College Event Management System
 
-                                  ## One Platform. Every Event. Better Campus Experiences.
+                                    One Platform. Every Event. Better Campus Experiences.
 
 A centralized web application designed to simplify college event organization, improve student participation, and make event coordination more efficient.
 
 
-###🌟 Project Overview :
+🌟 Project Overview :
 
 College campuses host technical fests, cultural celebrations, workshops, seminars, and competitions throughout the academic year. Managing these activities through scattered announcements and manual registration can make it difficult for students to discover events and for organizers to coordinate participation.
 
 The College Event Management System aims to bring event-related information and activities into one accessible platform, connecting students with college events and supporting mentors in event coordination.
 
-###🎯 Problem Statement :
+🎯 Problem Statement :
 
 Traditional event management processes may involve:
 
@@ -21,11 +21,11 @@ Traditional event management processes may involve:
 - Limited centralization of event information.
 - Additional effort for organizers to manage participation.
 
-###💡 Our Approach :
+💡 Our Approach :
 
 The project introduces a centralized digital platform for event discovery, student access, and event coordination, helping make campus activities easier to organize and participate in.
 
-###✨ Key Features :
+✨ Key Features :
 
 👨‍🎓 Student Portal:
 
@@ -54,7 +54,7 @@ The project introduces a centralized digital platform for event discovery, stude
 
 Feature note: Keep only features that are implemented in your current application. Describe planned features separately.
 
-###🛠️ Technology Stack :
+🛠️ Technology Stack :
 
 Layer| Technology
 Frontend| HTML, CSS, JavaScript — verify against your source code
@@ -62,7 +62,7 @@ Backend| Add your actual backend technology
 Database| Add your actual database technology
 Development Tools| Visual Studio Code, Git, GitHub
 
-###🔄 Application Workflow :
+🔄 Application Workflow :
 
 1. Access: The user opens the application.
 2. Authentication: The user enters through the appropriate student or mentor interface, if authentication is implemented.
@@ -70,13 +70,13 @@ Development Tools| Visual Studio Code, Git, GitHub
 4. Participation: Students register for events if registration is supported.
 5. Coordination: Authorized mentors use the available management features to support event organization.
  
-###🏆 Achievement :
+🏆 Achievement :
 
 🥇 First Place — College Technical Fest
 
 The project received first place at the college technical fest, recognizing the work invested in developing a solution for college event organization.
 
-###🚀 Getting Started :
+🚀 Getting Started :
 
 This section helps developers and reviewers understand how to run the project locally.
 
@@ -103,7 +103,7 @@ Setup :
 
 Add exact commands and database setup instructions after confirming the project's structure.
 
-###🧠 Skills Demonstrated :
+🧠 Skills Demonstrated :
 
 This project can demonstrate the following skills where they are reflected in the implementation:
 
@@ -114,7 +114,7 @@ This project can demonstrate the following skills where they are reflected in th
 - Software project organization
 - Collaborative problem-solving
 
-###🔮 Future Enhancements :
+🔮 Future Enhancements :
 
 Potential improvements include:
 
@@ -128,14 +128,14 @@ Potential improvements include:
 
 These are proposed improvements rather than claims about existing functionality.
 
-###🔐 Security Considerations :
+🔐 Security Considerations :
 
 - Keep passwords, API keys, and database credentials out of the repository.
 - Validate user input.
 - Apply appropriate authentication and authorization.
 - Use secure password handling if user authentication is implemented.
 
-###👩‍💻 Developer :
+👩‍💻 Developer :
 
 Joshitha Ummatapuvvu 
 
@@ -143,11 +143,11 @@ Computer Science and Engineering Student
 
 - GitHub: "@Joshitha7" (https://github.com/Joshitha7)
 
-###💬 Feedback :
+💬 Feedback :
 
 Suggestions and constructive feedback are welcome.
 
-###📄 License :
+📄 License :
 
 No license has been specified yet. Add an appropriate license if you decide to permit others to reuse or modify the project.
 
